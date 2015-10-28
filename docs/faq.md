@@ -107,6 +107,10 @@ Babel is very flexible in its usage, it has support for an extensive range of
 
 ## What is a module formatter?
 
+<blockquote class="babel-callout babel-callout-danger">
+Module formatters have been [https://github.com/babel/babel/blob/master/CHANGELOG.md#546](deprecated). Please use [plugins](/docs/advanced/plugins) instead.
+</blockquote>
+
 A module formatter is a transformer that turns exports and imports into their equivalent
 target format. For example, the `common` module formatter transforms
 `import { foo } from "bar";` into the CommonJS `var foo = require("bar").foo;`
