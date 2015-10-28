@@ -10,7 +10,7 @@ See [FAQ - What is a module formatter?](/docs/faq#what-is-a-module-formatter-)
 for module formatter terminology.
 
 <blockquote class="babel-callout babel-callout-danger">
-Module formatters have been [https://github.com/babel/babel/blob/master/CHANGELOG.md#546](deprecated). Please use [plugins](/docs/advanced/plugins) instead.
+Module formatters have been <a href="https://github.com/babel/babel/blob/master/CHANGELOG.md#546">deprecated.</a> Please use <a href="/docs/advanced/plugins">plugins</a> instead.
 </blockquote>
 
 <p class="lead">
