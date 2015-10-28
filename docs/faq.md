@@ -108,7 +108,7 @@ Babel is very flexible in its usage, it has support for an extensive range of
 ## What is a module formatter?
 
 <blockquote class="babel-callout babel-callout-danger">
-Module formatters have been [https://github.com/babel/babel/blob/master/CHANGELOG.md#546](deprecated). Please use [plugins](/docs/advanced/plugins) instead.
+Module formatters have been <a href="https://github.com/babel/babel/blob/master/CHANGELOG.md#546">deprecated.</a> Please use <a href="/docs/advanced/plugins">plugins</a> instead.
 </blockquote>
 
 A module formatter is a transformer that turns exports and imports into their equivalent
